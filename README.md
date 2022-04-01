@@ -16,7 +16,11 @@
 ---
 # 🛠 Sobre o projeto
 
-<p>Este projeto foi desenvolvido junto com a live do mestre de React Native na Rocket Rodrigo Santana, e fiz uma versão levemente melhorada, adicionando ao projeto original da live uma validação de campos (apenas aceitar se todos os campos estiverem preenchidos), adicionei também a funcionalidade de Deletar Todos os registros na tela Home, e modifiquei as cores do layout para uma versão dark.</p>
+<p>Este projeto foi desenvolvido junto com a live de React Native na Rocketseat, o grande Rodrigo Gonçalves Santana, e fiz uma versão levemente melhorada, adicionando ao projeto original da live o seguinte:
+
+* Uma validação de campos (apenas aceitar se todos os campos estiverem preenchidos)
+* Adicionei também a funcionalidade de Deletar Todos os registros na tela Home
+* Modifiquei as cores do layout para uma versão Dark.</p>
 
 
 # 🚀 Tecnologias utilizadas neste projeto
